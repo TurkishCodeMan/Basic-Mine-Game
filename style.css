@@ -1,0 +1,11 @@
+.danger{
+    background-color: red !important;
+}
+
+.success{
+    background-color: green !important;
+}
+
+.info{
+    background-color: gray;
+}
